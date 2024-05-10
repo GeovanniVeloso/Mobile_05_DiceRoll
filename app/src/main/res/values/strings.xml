@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Rolador de Dados</string>
+    <string name="DRTitle">Dice Roll</string>
+    <string name="DRHint">Selecione o número de dados a serem rolados.</string>
+    <string name="DRHint2">Selecione qual dado será rolado.</string>
+    <string name="dado1">1 Dado</string>
+    <string name="dado2">2 Dados</string>
+    <string name="dado3">3 Dados</string>
+    <string name="roll">Rolar</string>
+</resources>
